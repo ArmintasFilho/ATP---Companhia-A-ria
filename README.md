@@ -7,9 +7,9 @@ Para a execução do projeto nos foi informado para usar apenas o que foi aprend
 
 ## Integrantes 
   * [Armintas Fernandes da Silva Filho.](https://github.com/ArmintasFilho)
-  * [João Lucas de Almeida Menezes.]()
+  * [João Lucas de Almeida Menezes.](https://github.com/JoaoL-Menezes)
   * [Marcos Paulo Gonçalves Silva.](https://github.com/NOGMarcondes)
-  * [Matheus Roberto Almeida Sacramento.]()
+  * [Matheus Roberto Almeida Sacramento.](https://github.com/ma7heusS00)
     
 ## Instruções para uso
 Este *template* adota a seguinte estrutura de diretórios:
